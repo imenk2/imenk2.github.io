@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[2022/09/21 Untiy 利用LineRenderer绘制寻路路径](./docs/linear_renderer_path.html)
+
+[2021/10/29 Untiy scene & game 屏幕效果相机管理学习](./docs/renderfeature_camera_data.html)
+
 [2021/09/30 Untiy Shader GUI 学习](./docs/shaderGUI.html)
 
 [2021/09/30 Untiy 曲线数据转贴图传递给材质](./docs/curve_trans_material.html)
