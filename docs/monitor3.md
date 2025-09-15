@@ -89,7 +89,7 @@ LUTs检查
 当我们看到一个比较好看的LUTs预制
 
 ![Branching](../assets/img/monitor/monitor_show11.png)
-
+![Branching](../assets/img/monitor/monitor_show11a.png)
 目标LUTs中树叶都变成了黄昏的相似色
 
 而我们的画面中树叶变成了青色
