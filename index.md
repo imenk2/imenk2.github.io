@@ -3,5 +3,5 @@ layout: default
 ---
 
 
-[Coding](./coding-page.html)
+| [Coding](./coding-page.html) | [Project](./project-page.html) |
 
