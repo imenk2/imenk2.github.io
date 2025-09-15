@@ -14,6 +14,7 @@ layout: default
 
 | ![Branching](../assets/img/linder_renderer_path/bessel.gif) | ![Branching](../assets/img/linder_renderer_path/bessel2.gif) | ![Branching](../assets/img/linder_renderer_path/bessel3.gif) | ![Branching](../assets/img/linder_renderer_path/bessel4.gif) |
 
+那么就要更换平滑曲线方式，catmull-rom
 
 ![Branching](../assets/img/linder_renderer_path/catmoll-rom.png)
 
