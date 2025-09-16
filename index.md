@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="linked-headings-container">
-  <h1><a href="./coding-page.html">Coding</a></h1>
+  <h1><a href="./coding-page.html">Notes</a></h1>
   <h1><a href="./project-page.html">Project</a></h1>
   <h1><a href="./question-page.html">Question</a></h1>
 </div>
