@@ -1,5 +1,7 @@
 ---
 layout: default
+date: 2025-09-25
+last_modified_at: 2025-09-25
 ---
 
 ```
