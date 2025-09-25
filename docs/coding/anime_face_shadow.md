@@ -1,5 +1,7 @@
 ---
 layout: default
+
+title: 卡通渲染脸部阴影调研
 date: 2025-09-25
 last_modified_at: 2025-09-25
 ---
