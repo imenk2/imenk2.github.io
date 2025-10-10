@@ -1,10 +1,18 @@
 ---
 layout: default
+
+title: Pipeline Question
+date: 2025-09-25
+last_modified_at: 2025-10-10
+
 ---
 
+### 3D RenderTexture保存为3D Texture结果为负
+>不能直接拷贝3D RenderTexture到3D Texture，这属于unity bug，目前只能通过拷贝到2D texture后
+>累计读取color pixels 转存到3D Texture中
 
 ### 打包不能使用Shader.Find
->shader被打到包里以后，Shader.Find会报空
+>shader被打到包里以后，Shader.Find会报空，因为路径已经改为bundle
 
 ### 遮挡显示-不全
 >角色需要在不透明队列靠后绘制，不然深度检测不通过stencil不能正确更新
