@@ -41,7 +41,7 @@ half3 Reflect(float3 reflectDir, half roughness, half nv)
 
 相较于多次采样的视差，该效果只需要2次采样贴图（巩膜、虹膜）
 
-|![Octocat](../../assets/img/eye_effect/GIF 2025-10-16 15-07-17.gif)|![Octocat](../../assets/img/eye_effect/GIF 2025-10-16 15-02-05.gif)| ![Octocat](../../assets/img/eye_effect/GIF 2025-10-16 15-02-59.gif) |
+|![Octocat](../../assets/img/eye_effect/GIF 2025-10-16 15-07-17.gif)多层视差|![Octocat](../../assets/img/eye_effect/GIF 2025-10-16 15-02-05.gif)无视差| ![Octocat](../../assets/img/eye_effect/GIF 2025-10-16 15-02-59.gif)圆锥折射视差 |
 
 通过折射向量和模型坐标，计算虹膜和巩膜的平面交点，根据交点返回所在物体空间坐标当作uv使用，该uv被交点与模型坐标的距离长度缩放以达到不同视角下的uv偏移，没有交点则使用一个固定值。
 
