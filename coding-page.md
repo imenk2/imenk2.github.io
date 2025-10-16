@@ -6,6 +6,8 @@ layout: default
 
 ***
 
+[2025/10/16 Unity 眼球效果](./docs/coding/eye_effect.html)
+
 [2025/10/10 Unity 眼球焦散调研](./docs/coding/eye_caustic.html)
 
 [2025/09/25 Untiy 卡通脸部阴影学习](./docs/coding/anime_face_shadow.html)
