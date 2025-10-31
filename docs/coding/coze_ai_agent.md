@@ -24,6 +24,8 @@ last_modified_at: 2025-10-31
 >本文基于国内平台测试开发
 
 国内扣子：[https://www.coze.cn/home](https://www.coze.cn/home)
+
+
 扣子文档:[https://www.coze.cn/open/docs/guides](https://www.coze.cn/open/docs/guides)
 
 1. 安装SDK(需要最低python-3.8.2)：pip install cozepy
@@ -44,17 +46,17 @@ last_modified_at: 2025-10-31
 
 在搭建工作流界面，我们创建出我们需要的具体业务流程，这个业务的数据处理主体可以是大模型，这样就实现了智能体处理。
 
-- level 1 技能
-    - level 2 给予大模型执行某些功能的工具插件，比如读取文本或读取图像信息。
-- level 1 输入
-    - level 2 从开始的输入或流程中处理后的内容，链接给大模型并指定输入来源和名称
-- level 1 系统提示词
-    - level 2 这是赋予大模型具体职责的模块
-    - level 2 ![Octocat](../../assets/img/coze_ai_agent/work_05.png)
-- level 1 用户提示词
-    - level 2 如果需要可以填充，用于大模型执行、对话、数据查询等
-- level 1 输出 
-    - level 2 将所需的内容设置输出格式
+- 技能
+    - 给予大模型执行某些功能的工具插件，比如读取文本或读取图像信息。
+- 输入
+    - 从开始的输入或流程中处理后的内容，链接给大模型并指定输入来源和名称
+- 系统提示词
+    - 这是赋予大模型具体职责的模块
+    - ![Octocat](../../assets/img/coze_ai_agent/work_05.png)
+- 用户提示词
+    - 如果需要可以填充，用于大模型执行、对话、数据查询等
+- 输出 
+    - 将所需的内容设置输出格式
 
 因为我们要使用api获取工作流的结果，所以不能链接到输出节点，因为输出节点用作页面展示的。
 
