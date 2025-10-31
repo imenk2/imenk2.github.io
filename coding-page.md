@@ -6,6 +6,8 @@ layout: default
 
 ***
 
+[2025/10/24 Coze AI Agent 学习](./docs/coding/coze_ai_agent.html)
+
 [2025/10/16 Unity 眼球效果](./docs/coding/eye_effect.html)
 
 [2025/10/10 Unity 眼球焦散调研](./docs/coding/eye_caustic.html)
