@@ -12,15 +12,15 @@ layout: default
 
 [2025/09/25 Untiy 卡通脸部阴影学习](./docs/coding/anime_face_shadow.html)
 
-[2025/09/16 Untiy RenderGraph](./docs/coding/unity6_render_graph.html)
+[2025/09/16 Untiy RenderGraph学习](./docs/coding/unity6_render_graph.html)
 
 [2025/09/16 Untiy 吃水线](./docs/coding/water_line.html)
 
-[2022/12/29 Untiy 示波器 3](./docs/coding/monitor3.html)
+[2022/12/29 示波器 3](./docs/coding/monitor3.html)
 
-[2022/12/29 Untiy 示波器 2](./docs/coding/monitor2.html)
+[2022/12/29 示波器 2](./docs/coding/monitor2.html)
 
-[2022/12/29 Untiy 示波器 1](./docs/coding/monitor1.html)
+[2022/12/29 示波器 1](./docs/coding/monitor1.html)
 
 [2022/12/22 Untiy UI Text-Mesh-Pro 浮动文字](./docs/coding/text_mesh_pro.html)
 

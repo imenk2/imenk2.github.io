@@ -14,10 +14,12 @@ layout: default
 
 2、设置完点击process animated meshs会生成下图后缀mesh和exr格式动画图片
 Uv2信息在这个mesh中导出fbx到工程
+
 ![Branching](../../assets/img/vertexAnimBaked/tool2.png)
 
 3、图片设置（andriod设置里也是关闭压缩）
 Filter Mode: point
+
 ![Branching](../../assets/img/vertexAnimBaked/tool3.png)
 
 在shader中我们拿到uv2数据，使用uv2.x坐标寻址，使用time驱动动画对这张动画图片
