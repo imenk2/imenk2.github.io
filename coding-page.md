@@ -6,6 +6,8 @@ layout: default
 
 ***
 
+[2025/10/24 Unity Custom Scene View 工具栏 Draw Mode](./docs/coding/custom_scene_view_toolbar.html)
+
 [2025/10/24 Coze AI Agent 学习](./docs/coding/coze_ai_agent.html)
 
 [2025/10/16 Unity 眼球效果](./docs/coding/eye_effect.html)
