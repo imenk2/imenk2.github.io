@@ -16,6 +16,9 @@ gem "jekyll-sass-converter", "2.2.0"
 # 为 Ruby 3.0+ 环境添加 Jekyll 运行必需的 web server
 gem "webrick"
 
+gem 'bigdecimal'
+gem 'logger'
+
 # 网站插件
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

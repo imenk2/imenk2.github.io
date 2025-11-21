@@ -1,7 +1,7 @@
 title: Enk2 Blog
 logo: /assets/img/avata.png
 description: 这个人很懒什么也没留下……
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal   
 
